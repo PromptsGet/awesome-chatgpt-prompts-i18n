@@ -36,3 +36,8 @@ Contributions are always welcome! If you have any ideas, suggestions, or resourc
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+
+## Thanks to
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
